@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on *getting AZ 900 certified*
 - 🌱 I’m currently learning *Terraform*
 - 👯 I’m looking to collaborate on *Python Projects*
-- 🤔 I’m looking for help with *
+- 🤔 I’m looking to document *my learning journey in DevOps*
 - 💬 Ask me about *Education, Chinese Chess, Foosball, Arsenal Football Club*
 - 📫 How to reach me: martinthong125@gmail.com
 - 😄 Pronouns: *He / His / Him*
