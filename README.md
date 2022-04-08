@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on *getting AZ 104 certified*
-- 🌱 I’m currently learning *Terraform*
+- 🌱 I’m currently learning *Terraform, Security*
 - 👯 I’m looking to collaborate on *Python Projects*
 - 🤔 I’m looking to develop *my skills in DevOps, especially in the area of Automation*
 - 💬 Ask me about *Education, Chinese Chess, Foosball, Arsenal Football Club*
