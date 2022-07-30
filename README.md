@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on *getting AZ 104 certified*
 - 🌱 I’m currently learning *Kubernetes, Security*
 - 👯 I’m looking to collaborate on *Python Projects*
-- 🤔 I’m looking to develop *my skills in DevOps, especially in the area of Automation*
+- 🤔 I’m looking to develop *my skills in DevOps, especially in the area of cloud deployment*
 - 💬 Ask me about *Education, Chinese Chess, Foosball, Arsenal Football Club*
 - 📫 How to reach me: martinthong125@gmail.com
 - 😄 Pronouns: *He / His / Him*
