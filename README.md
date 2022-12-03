@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on *getting AZ 104 certified*
-- 🌱 I’m currently learning *Kubernetes, Security*
+- 🌱 I’m currently learning *AWS CloudFormation, Lambda, Boto3, SAM*
 - 👯 I’m looking to collaborate on *Python Projects*
 - 🤔 I’m looking to develop *my skills in DevOps, especially in the area of cloud deployment*
 - 💬 Ask me about *Education, Chinese Chess, Foosball, Arsenal Football Club*
